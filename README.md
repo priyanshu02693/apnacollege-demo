@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my 1st Git Repository.
 <br>
-Author - Priyansh Chauhan
+Author - Chauhan Priyansh
